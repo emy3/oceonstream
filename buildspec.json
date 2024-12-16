@@ -33,15 +33,15 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.obs-plugintemplate"
+            "bundleId": "com.example.oclabs-chat"
         }
     },
-    "name": "obs-plugintemplate",
-    "displayName": "OBS Plugin Template",
+    "name": "oceonlabs-chat",
+    "displayName": "OBS Chat Plugin ",
     "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com",
+    "author": "emoceon",
+    "website": "oceonlabs.net",
+    "email": "emoceon@gmail.com",
     "uuids": {
         "windowsApp": "00000000-0000-0000-0000-000000000000"
     }
